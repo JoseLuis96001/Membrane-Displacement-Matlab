@@ -9,6 +9,6 @@ The following picture is to describe the problem
 ![p](https://user-images.githubusercontent.com/40477832/126252956-e621fc4f-b6bf-426d-aacb-4e891ea001d1.png)
 
 
-The mesh used 
+To get an aproximation of the solution we use the following area Omega 
 
 ![domain2](https://user-images.githubusercontent.com/40477832/126253097-12b13e77-0fe3-4810-ae00-6d7397bcc9d6.PNG)
