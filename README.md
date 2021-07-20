@@ -19,3 +19,9 @@ We have the folowing mesh creation results
 ![2_2raro](https://user-images.githubusercontent.com/40477832/126253392-93c04483-febd-4db3-9acf-7fb2625f91d3.jpg)
 ![Good5_25_5_a](https://user-images.githubusercontent.com/40477832/126253401-18d744be-176e-4702-8d39-2faad1c4cce9.jpg)
 ![Good5_25_5_b](https://user-images.githubusercontent.com/40477832/126253408-3839ebee-3a08-4aad-a86b-b8b39818c3c6.jpg)
+
+
+We can create some 3d plots to see how well is the aproximtion of the desplacement
+![SegundaPrueba](https://user-images.githubusercontent.com/40477832/126253573-dcd84b5f-3641-4ca3-a9c7-823ff2065299.png)
+![TercerPunto](https://user-images.githubusercontent.com/40477832/126253574-1f31267d-e758-436f-a6e0-478bb9fd3107.png)
+![PrimeraPrueba](https://user-images.githubusercontent.com/40477832/126253575-936f701a-22e2-45c9-bc9b-859e5f5fdf38.png)
